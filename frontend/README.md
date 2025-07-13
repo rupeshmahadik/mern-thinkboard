@@ -75,4 +75,10 @@ Feel free to contribute or suggest improvements!
 ## Deployment
 
 - Github
+  - Push the code on github
+  - add .env in gitignore
+  - npm init -y in root folder to create package.json
+  - frontend - 5173
+  - backend - 5001
+  - server under single domain
 - render
